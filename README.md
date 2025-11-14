@@ -1,7 +1,7 @@
-![I'm a Frontend Web Developer](https://i.ibb.co/NgR0L29/Mazharul-islam.png)
+![I'm a Frontend Web Developer](<img src="https://i.ibb.co.com/RGv8W9pJ/Mazharul-islam-1.png" alt="Mazharul-islam-1" border="0">)
 
 
-### Hi there 👋, my name is Mazharul 
+### Hi there 👋, my name is Rafi 
 #### I'm a Frontend Web Developer
 
 Hi, I’m Mazharul Islam. I’m a Frontend web Developer. Experiences javascript, React js. I never stop until solve a problem. And love to finish any work efficiently Learning more skills to update me more in future node js, express js, mongoDB & improving MERN stack development.
