@@ -1,4 +1,4 @@
-![I'm a Frontend Web Developer](<img src="https://i.ibb.co.com/RGv8W9pJ/Mazharul-islam-1.png" alt="Mazharul-islam-1" border="0">)
+![I'm a Frontend Web Developer](https://i.ibb.co.com/RGv8W9pJ/Mazharul-islam-1.png)
 
 
 ### Hi there 👋, my name is Rafi 
