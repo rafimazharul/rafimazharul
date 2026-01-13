@@ -1,63 +1,35 @@
-<h1 align="center">Mazharul Islam</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
+<h1 align="center">Hi, I'm Rafi</h1>
+<h3 align="center">A Frontend Web Developer</h3>
 
-<p align="center">
-  I build fast, clean, and usable web interfaces.  
-  Obsessed with UI details, performance, and writing better code every day.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafimazharul&label=Profile%20views&color=0e75b6&style=flat" alt="rafimazharul" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafimazharul" alt="rafimazharul" /></a> </p>
+
+- 🌱 I’m currently learning **Data Structure**
+
+- 👨‍💻 All of my projects are available at [rafisportfolio.netlify.app](rafisportfolio.netlify.app)
+
+- 💬 Ask me about **Javascript, C, C++**
+
+- 📫 How to reach me **mazharulrafi@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rafi_mazharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_mazharul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafimazharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafimazharul" height="30" width="40" /></a>
+<a href="https://fb.com/rafimazharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafimazharul" height="30" width="40" /></a>
+<a href="https://instagram.com/rafi_lostinthoughts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafi_lostinthoughts" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rafi_mazharul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rafi_mazharul" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rafi_mazharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rafi_mazharul" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rafi_mazharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rafi_mazharul" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rafi_mazharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafi_mazharul" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafimazharul&show_icons=true&locale=en&layout=compact" alt="rafimazharul" /></p>
 
-<div align="center">
-  
-  ![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-  ![Tailwind](https://img.shields.io/badge/TailwindCSS-111?style=for-the-badge&logo=tailwindcss)
-  ![HTML](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
-  ![Node](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
-  ![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
-  
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafimazharul&show_icons=true&locale=en" alt="rafimazharul" /></p>
 
----
-
-## What I’m Doing Now
-
-– Working with React and improving UI performance  
-– Learning Next.js and backend integration  
-– Building full stack projects using MERN  
-– Daily code, no excuses
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafimazharul&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=rafimazharul&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimazharul&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## Reach Me
-
-<p align="center">
-  <a href="https://twitter.com/rafi_mazharul"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://linkedin.com/in/rafimazharul"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://instagram.com/poindexter__21"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
-
----
-
-<p align="center">
-  🚀 Focused on growth. Open to collaboration.
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafimazharul&" alt="rafimazharul" /></p>
