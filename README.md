@@ -1,12 +1,21 @@
-<h1 align="center">Mazharul Islam</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
 
-<p align="center">
-  I build fast, clean, and usable web interfaces.  
-  Obsessed with UI details, performance, and writing better code every day.
-</p>
+### Hi there! Myself Rafi🙂
 
----
+#### A Frontend Developer with a Competitive Programming Edge
+
+
+
+
+![Frontend Developer | React.js Enthusiast](https://i.ibb.co/ks9d8FH0/Abstract-Technology-Profile-Linked-In-Banner-2.png)
+
+
+I build fast, clean, and usable web interfaces with a strong focus on UI details and performance. I care deeply about writing better code every day, improving maintainability, and creating experiences that actually feel good to use.
+
+## About Me:
+- 🔭 I’m currently working on React Development 
+- 🌱 I’m currently learning C++ & Data Structure 
+- 📫 How to reach me: mazharulrafi@gmail.com 
+- ⚡ Fun fact: I am also an Business Developement Executive
 
 ## Tech Stack
 
@@ -24,21 +33,21 @@
   
 </div>
 
----
 
 ## What I’m Doing Now
 
-– Working with React and improving UI performance  
-– Learning Next.js and backend integration  
-– Building full stack projects using MERN  
-– Daily code, no excuses
+- Building responsive UIs with React and optimizing performance
+- Strengthening C++ and Data Structures skills
+- Solving algorithmic problems on online judges using C++
+- Coding daily, no excuses
 
----
 
 ## GitHub Stats
 
+
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafimazharul&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafimazharul&show_icons=true&theme=tokyonight" width="400"/>
   <img width="48%" src="https://streak-stats.demolab.com/?user=rafimazharul&theme=tokyonight"/>
 </p>
 
@@ -48,15 +57,33 @@
 
 ---
 
-## Reach Me
+## Reach Me On
 
 <p align="center">
-  <a href="https://twitter.com/rafi_mazharul"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://linkedin.com/in/rafimazharul"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://instagram.com/poindexter__21"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://twitter.com/rafi_mazharul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/rafimazharul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/rafimazharul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rafi_lostinthoughts" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/rafi_mazharul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/rafi_mazharul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/rafi_mazharul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
 </p>
 
----
+</div>
 
 <p align="center">
   🚀 Focused on growth. Open to collaboration.
