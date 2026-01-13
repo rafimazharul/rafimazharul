@@ -47,43 +47,16 @@ I build fast, clean, and usable web interfaces with a strong focus on UI details
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafimazharul&show_icons=true&theme=tokyonight" width="400"/>
   <img width="48%" src="https://streak-stats.demolab.com/?user=rafimazharul&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimazharul&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## Reach Me On
 
-<p align="center">
-  <a href="https://twitter.com/rafi_mazharul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/rafimazharul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/rafimazharul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rafi_lostinthoughts" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/rafi_mazharul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/rafi_mazharul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/rafi_mazharul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-</p>
-
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafimazharul/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafi_lostinthoughts/?hl=en) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafi_mazharul/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rafi_mazharul) 
 
 <p align="center">
   🚀 Focused on growth. Open to collaboration.
