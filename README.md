@@ -38,7 +38,7 @@ const rafi = {
 - 🎯 Specialized in **React, Next.js, TypeScript, and dashboard systems**
 - 📖 Always sharpening skills — currently on Phitron Batch-8
 
----
+
 
 ## Tech Stack
 
@@ -55,7 +55,7 @@ const rafi = {
   ![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
   
 </div>
----
+
 
 
 ## 📊 GitHub Analytics
