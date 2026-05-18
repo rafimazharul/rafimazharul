@@ -1,6 +1,6 @@
 
 <!-- Banner Header -->
-![Mazharul Islam Rafi](https://i.ibb.co.com/FkLVTmdq/Github-banner.jpg)
+![Mazharul Islam Rafi](banner.jpeg)
 
 <div align="center">
 
